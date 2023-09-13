@@ -1,2 +1,2 @@
 # devops
-Scripts for Sys Ops Tasks
+Scripts/Tutorials for Sys Admins/Dev Op Tasks
