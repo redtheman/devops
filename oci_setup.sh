@@ -13,3 +13,5 @@ sudo yum install oracle-instantclient19.20-basic-19.20.0.0.0-1.x86_64.rpm -y
 sudo yum install oracle-instantclient19.20-sqlplus-19.20.0.0.0-1.x86_64.rpm -y
 sudo yum install oracle-instantclient19.20-tools-19.20.0.0.0-1.x86_64.rpm -y
 sudo yum install oracle-instantclient19.20-devel-19.20.0.0.0-1.x86_64.rpm -y
+export PATH=/usr/lib/oracle/19.20/client64/bin:$PATH
+
